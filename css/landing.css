@@ -1,0 +1,24 @@
+.navigation {
+	max-height: 15px;
+}
+
+.content {
+	margin-top: 120px;
+}
+
+.lpbd {
+	background-image: url("../img/lpbd.jpg");
+	background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin-top: 20%;
+}
+
+.card-title {
+	font-size: 3.0rem;
+	color: white;
+}
+
+.socrs {
+	font-size:1.5rem;
+	color:white;
+}

@@ -1,0 +1,115 @@
+.profilepic {
+	max-width: 100%;	
+}
+
+body {
+	background-color: peru;
+}
+
+.embedly-card {
+	color: saddlebrown;
+	padding-bottom: 50px;
+}
+
+.chess {
+	max-width: 100%
+}
+
+.hbr {
+	max-width:100%;
+}
+
+.progress-crimson::-webkit-progress-value {
+	background-color: crimson !important;
+}
+
+.progress-rest::-webkit-progress-bar {
+	background-color: lavender !important;
+}
+
+.progress-coral::-webkit-progress-value {
+	background-color: coral !important;
+}
+
+.col-md-3 {
+	background-color: lemonchiffon;
+	padding-top: 15px;
+}
+
+.brown {
+	padding-bottom: 15px;
+	/*clear: left;*/
+	display: block;
+	width: 81%;
+	height: 155px;
+}
+
+.woods {
+	max-width: 100%;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.jacket {
+	max-width: 100%;
+	padding-bottom: 15px;
+	padding-right: 5px;
+	/*float: left;*/
+}
+
+.float-left {
+	float: left;
+	/*max-width: 100%;*/
+	margin-right: -40px;
+}
+
+.journal {
+	max-width: 70%;
+	padding-bottom: 15px;
+	padding-left: 15px;
+}
+
+.col-md-7 {
+	background-color: lemonchiffon;
+
+}
+
+.col-md-2 {
+	background-color: lemonchiffon;
+
+}
+
+.content {
+	margin-top: 65px;
+
+}
+
+.navigation {
+	max-height: 15px;
+
+	/*padding-bottom: 100px;*/
+}
+
+.feed-title {
+	padding-top: 15px;
+}
+
+.hands {
+	max-width: 100%;
+	padding-top: 15px;
+}
+
+.slogo {
+	max-width: 4%;
+/*	padding-bottom: 25%;
+*/	position: relative;
+	transform: translateX(165%);
+}
+
+.icons {
+	color: black;
+}
+/*.progress-yellow::-webkit-progress-value {
+	background-color: yellow !important;
+}
+
